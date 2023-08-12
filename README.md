@@ -1,2 +1,2 @@
 # GitHubIntro
-A basic introduction to. teach git and github
+A basic introduction to teaching git and github
